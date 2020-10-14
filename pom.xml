@@ -14,7 +14,7 @@
     </modules>
 
     <properties>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <lombok.version>1.18.8</lombok.version>
         <hutool.all.version>5.4.0</hutool.all.version>
     </properties>
